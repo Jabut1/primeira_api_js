@@ -6,7 +6,7 @@ const PORT = 3000;
 app.use(express.json());
 
 let funcionarios = [
-    { id: 1, funcionario: 'Carlos' },
+    { id: 1, funcionario: 'Carloss' },
     { id: 2, funcionario: 'Eduardo' },
     { id: 3, funcionario: 'Fernando'}
 ];
